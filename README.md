@@ -1,6 +1,6 @@
 Небольшой набор программ (исходники на c++, соберутся в qt creator) для преобразования svg файлов (изображения с сегментацией для компьютерного зрения) в JSON файлы. Координаты точек преобразуются в абсолютные. Правильное округление дробей со своим классом.
 
-A small set of programs (sources on C ++, gather in QT Creator) for converting SVG files (images with segmentation for computer vision) into json files. The coordinates of the points are converted into absolute.
+A small set of programs (sources on C ++, gather in QT Creator) for converting SVG files (images with segmentation for computer vision) into json files. The coordinates of the points are converted into absolute. Proper rounding of fractions with my class.
 
 https://github.com/tsvigo/izvlechenie_putey_SVG_2/tree/master
 ----------------------------------------------------------
